@@ -5,8 +5,8 @@ describe("POST /api/auth/register", () => {
   // Test 1: Successful registration
   it("should register a new user with valid data", async () => {
     const response = await request(app).post("/api/auth/register").send({
-      username: "ray@example.com",
-      email: "ray@example.com",
+      username: "sam@example.com",
+      email: "sam@example.com",
       password: "securePass123",
       address: "Ahmedabad",
       created_by: "ADMIN",
