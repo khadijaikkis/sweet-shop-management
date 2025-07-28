@@ -32,5 +32,5 @@ A full-stack Sweet Shop Management System with authentication, inventory managem
 - TDD: Red-Green-Refactor development cycle
 
 
-##Used postman for manual api testing
+## Used postman for manual api testing
 
