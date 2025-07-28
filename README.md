@@ -6,11 +6,11 @@ A full-stack Sweet Shop Management System with authentication, inventory managem
 -AI tools helped reduce development time and minimize boilerplate writing
 
 ## Tech Stack:
-Backend           : Express js 
-Database         : MySQL
-Authentication: JWT(jsonwebtoken)
-Testing              :jest
-Frontend           :React
+### Backend           : Express js 
+### Database         : MySQL
+### Authentication: JWT(jsonwebtoken) and bcrypt
+### Testing              :jest
+### Frontend           :React
 
 ## Features
  
