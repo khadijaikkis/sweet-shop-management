@@ -32,5 +32,5 @@ Frontend           :React
 - TDD: Red-Green-Refactor development cycle
 
 
-Used postman for api testing
+##Used postman for manual api testing
 
