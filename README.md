@@ -2,7 +2,9 @@
 A full-stack Sweet Shop Management System with authentication, inventory management, and admin features.
 
 ## AITools used : (Chatgpt,perplexity)
--Used AI to generate JWT-based     authentication middleware.
+-Used AI to generate JWT-based     authentication middleware
+-Guided the structure of Jest and Supertest-based backend test cases.
+My Reflection:
 -AI tools helped reduce development time and minimize boilerplate writing
 
 ## Tech Stack:
