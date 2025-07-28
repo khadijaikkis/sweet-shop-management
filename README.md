@@ -5,16 +5,16 @@ A full-stack Sweet Shop Management System with authentication, inventory managem
 -Used AI to generate JWT-based     authentication middleware.
 -AI tools helped reduce development time and minimize boilerplate writing
 
-##Tech Stack:
+## Tech Stack:
 Backend           : Express js 
 Database         : MySQL
 Authentication: JWT(jsonwebtoken)
 Testing              :jest
 Frontend           :React
 
-##Features
+## Features
  
-##User Authentication
+## User Authentication
 - JWT-based login and registration
 - Admin and regular user roles
 
